@@ -1,0 +1,4 @@
+0 3
+ID|Modelo|Valor
+10585|camaro|2
+13423|palio|10
